@@ -1,2 +1,2 @@
-# Nike
- Nike App by Oyebanji Gabriel
+# nike
+ Nike app built by Oyebanji Gabriel
